@@ -29,6 +29,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        BankAccount.setAccountBalance(amount);
     }
 
     /**
@@ -89,6 +90,7 @@ public class Bank {
         /*
          * Implement this function
          */
+
     }
 
     /**
